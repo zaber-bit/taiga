@@ -1,6 +1,6 @@
 # This fork
 
-This is a fork off of Taiga (see below) which implements automatic file removal features of watched episodes and other related features. I reserve no right of the original code, and this work was created for my own use. However, feel free to use this version of Taiga if you find it useful, but I hope you take a look at the original project and see if it implements the features you want.
+This is a fork off of Taiga (see below) which implements automatic file removal features of watched episodes and other related features, in the auto_episode_remove branch. I reserve no right of the original code, and this work was created for my own use. However, feel free to use this version of Taiga if you find it useful, but I hope you take a look at the original project and see if it implements the features you want.
 
 I will not maintain this fork actively, but if you find the new features in this fork lacking in some way, feel free to add an issue or otherwise contact me.
 
